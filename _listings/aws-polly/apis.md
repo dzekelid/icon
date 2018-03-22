@@ -25,9 +25,9 @@ tags:
 - Stack Network
 - Speech
 - Amazon Web Services
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/icon/master/_listings/aws-polly/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Polly API
@@ -38,7 +38,7 @@ apis:
   tags: Icon
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/icon/master/_listings/aws-polly/action-putlexicon-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/action-deletelexicon-get.md
 x-common:
 - type: x-authentication
   url: http://docs.aws.amazon.com/polly/latest/dg/authentication-and-access-control.html
