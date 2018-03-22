@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListLexicons&k=1:
+  /?Action=ListLexicons:
     get:
       summary: ' List Lexicons '
       description: Returns a list of pronunciation lexicons stored in an AWS Region
