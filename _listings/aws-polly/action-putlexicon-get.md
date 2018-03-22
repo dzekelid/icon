@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=PutLexicon&k=1:
+  /?Action=PutLexicon:
     get:
       summary: ' Put Lexicon '
       description: Stores a pronunciation lexicon in an AWS Region
