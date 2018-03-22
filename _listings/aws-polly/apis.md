@@ -38,7 +38,7 @@ apis:
   tags: Icon
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/action-deletelexicon-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/action-getlexicon-get.md
 x-common:
 - type: x-authentication
   url: http://docs.aws.amazon.com/polly/latest/dg/authentication-and-access-control.html
