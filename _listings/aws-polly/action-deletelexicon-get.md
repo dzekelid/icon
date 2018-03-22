@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteLexicon&k=1:
+  /?Action=DeleteLexicon:
     get:
       summary: ' Delete Lexicon '
       description: Deletes the specified pronunciation lexicon stored in an AWS Region
