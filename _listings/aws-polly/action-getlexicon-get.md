@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetLexicon&k=1:
+  /?Action=GetLexicon:
     get:
       summary: ' Get Lexicon '
       description: Returns the content of the specified pronunciation lexicon stored
