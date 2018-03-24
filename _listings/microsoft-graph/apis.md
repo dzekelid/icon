@@ -18,8 +18,8 @@ tags:
 - Files
 - Email
 - Contact
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/microsoft-graph/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -32,7 +32,7 @@ apis:
   tags: Icon
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/microsoft-graph/workbook-worksheets(-lt;id|name-gt;)-tables(-lt;id|name-gt;)-sort-fields-icon-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/microsoft-graph/workbook-tables(-lt;id|name-gt;)-sort-fields-icon-get.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
