@@ -1,13 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Reddit
-  description: The Reddit API allows you to access the user submitted and rated stories
-    on reddit.com. It also provides advanced functionality, including user account
-    information and sub-reddit moderation.
+  title: Reddit Add Subreddit Delete Sr Icon
+  description: Remove the subreddit&#39;s custom mobile icon.
   version: 1.0.0
 host: www.reddit.com
-basePath: api/
+basePath: /
 schemes:
 - http
 produces:
