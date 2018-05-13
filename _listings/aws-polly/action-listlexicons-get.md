@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Polly API
+  title: AWS Polly API List Lexicons
   version: 1.0.0
+  description: Returns a list of pronunciation lexicons stored in an AWS Region.
 schemes:
 - http
 produces:
