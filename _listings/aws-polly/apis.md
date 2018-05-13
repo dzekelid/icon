@@ -39,15 +39,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/action-putlexicon-get.md
-- name: AWS Polly API Delete Lexicon
-  description: Deletes the specified pronunciation lexicon stored in an AWS Region.
+- name: AWS Polly API Get Lexicon
+  description: Returns the content of the specified pronunciation lexicon stored in
+    an AWS Region.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
   humanURL: https://aws.amazon.com/polly/
   baseURL: http:://{host}//
   tags: Icon
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/action-deletelexicon-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/icon/master/_listings/aws-polly/action-getlexicon-get.md
 x-common:
 - type: x-authentication
   url: http://docs.aws.amazon.com/polly/latest/dg/authentication-and-access-control.html
