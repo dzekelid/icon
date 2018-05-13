@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Polly API
+  title: AWS Polly API Delete Lexicon
   version: 1.0.0
+  description: Deletes the specified pronunciation lexicon stored in an AWS Region.
 schemes:
 - http
 produces:
